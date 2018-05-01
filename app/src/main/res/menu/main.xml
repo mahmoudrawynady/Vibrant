@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+
+
+    <item
+        android:id="@+id/title"
+        android:title="@string/oder"
+        >
+        <menu>
+            <group android:checkableBehavior="all">
+                <item
+                    android:id="@+id/location"
+                    android:icon="@android:drawable/ic_menu_mylocation"
+                    android:title="@string/location"
+                    app:showAsAction="withText"
+                    />
+
+                <item
+                    android:id="@+id/disease"
+                    android:title="@string/disease"
+                    app:showAsAction="never" />
+
+                <item
+                    android:id="@+id/age"
+                    android:title="@string/age"
+                    app:showAsAction="never">
+                    <menu>
+                         <group android:checkableBehavior="single">
+                            <item
+                                android:id="@+id/children"
+                                android:title="@string/children"
+                                app:showAsAction="never" />
+
+                            <item
+                                android:id="@+id/adults"
+                                android:title="@string/adults"
+                                app:showAsAction="never" />
+
+                        </group>
+                  </menu>
+                </item>
+            </group>
+        </menu>
+    </item>
+
+</menu>

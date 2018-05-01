@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "991384198988",
+    "firebase_url": "https://vibrant-b880f.firebaseio.com",
+    "project_id": "vibrant-b880f",
+    "storage_bucket": "vibrant-b880f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991384198988:android:6123939aa46883c9",
+        "android_client_info": {
+          "package_name": "com.example.mahmoudrawy.vibrant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991384198988-t9tp1im8l7ljpftb0qjcgkec1phq5c2m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mahmoudrawy.vibrant",
+            "certificate_hash": "324f8a380127e23134b10ca09412132fc9fab95d"
+          }
+        },
+        {
+          "client_id": "991384198988-etcu9i80h0imfn0dt70rtq54g808gu2c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBakkEoTSlfIKmpkSJmxqv02c0SjGIYvlg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991384198988-etcu9i80h0imfn0dt70rtq54g808gu2c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Vibrant</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="oder">Order Your List By</string>
+    <string name="location">Location</string>
+    <string name="disease">Disease</string>
+    <string name="age">Age</string>
+    <string name="children">Children</string>
+    <string name="adults">Adults</string>
+    <string name="title_activity_children_nuseries">children_nuseries</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="benha_describtion">Banha University Hospital is a university hospital that is affiliated with the Faculty of Medicine of Banha University in Banha city in Qalyoubia Governorate. The first hospital building was built in 1981.</string>
+    <string name="home">Home</string>
+    <string name="general_care_unit">General Care Unit</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="public_unit">Public Care Units</string>
+    <string name="special_care">Special Care Units</string>
+
+</resources>
+
